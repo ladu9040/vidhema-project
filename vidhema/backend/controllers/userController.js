@@ -1,7 +1,3 @@
-
-
-
-
 const {userDB} = require('../config/database');
 const path = require('path');
 const fs = require('fs').promises;
